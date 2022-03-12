@@ -16,6 +16,6 @@ Area_Trapezio=(((a*b)*c)/2);
 Area_Triangolo=((a*b)/2);
 cout << "Le aree del Quadrato, Rettangolo, Trapezio e Triangolo sono rispettivamente: " << "\n" << Area_Quadrato << "\n" << Area_Rettangolo << "\n" << Area_Trapezio << "\n" << Area_Triangolo << endl;
 
-return 0
+return 0;
 
 }
