@@ -14,7 +14,7 @@ Area_Triangolo=((a*b)/2);
 Area_Quadrato=a*a;
 Area_Rettangolo=a*b;
 Area_Trapezio=(((a+b)*c)/2);
-cout << "Le aree del Quadrato, Rettangolo, Trapezio e Triangolo sono rispettivamente: " << "\n" << Area_Triangolo << "\n" << Area_Quadrato << "\n" << Area_Rettangolo << "\n" << Area_Trapezio << endl;
+cout << "Le aree del Triangolo, Quadrato, Rettangolo, e Trapezio sono rispettivamente: " << "\n" << Area_Triangolo << "\n" << Area_Quadrato << "\n" << Area_Rettangolo << "\n" << Area_Trapezio << endl;
 
 return 0;
 
